@@ -16,6 +16,6 @@ contract ContractTest is Test {
 
     function testMakeContact() public {
         sidekick.makeContact(address(hero));
-        assertGt(hero.lastContact(), 0, "it should have set the last contact");
+        assertGt(hero.lastContact(), 0, "it should have set the last contacts");
     }
 }
