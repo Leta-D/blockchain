@@ -10,16 +10,15 @@ This repository contains our group project for learning Solidity and smart contr
 - 4. Bayisa Balcha             Ugr/30231/15
 
 
-### 📚 Course
+### Course
 - Alchemy University Solidity Course  
 
-### 📂 Project Structure
-- `Course_Materials/` → Notes and resources  
-- `Smart_Contracts/` → Solidity codes  
-- `Assignments/` → Exercises  
-- `Screenshots/` → Course completion proof  
+### Project Structure
+- `Course completion/` → Notes and resources  
+- `course_practice_codebases/` → Solidity codes  
+- `cousrse_screenshots/` → Course completion proof  
 
-### 💻 Tools Used
+### Tools Used
 - Solidity  
 - Remix IDE / Hardhat  
 - GitHub  
