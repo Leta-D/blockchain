@@ -23,6 +23,6 @@ This repository contains our group project for learning Solidity and smart contr
 - Remix IDE / Hardhat  
 - GitHub  
 
-### 📸 Proof
+### Proof
 Screenshots of course progress are included in the `cousrse_screenshots` folder.
 
